@@ -78,6 +78,14 @@
 - Deploying frontend applications to Amazon S3
 - Writing up the frontend and backend
 
+# Scripts
+
+- Generate nest scaffolds with CLI: `nest g controller tasks --no-spec`
+- Yarn start script: `yarn start:dev`
+
 #### Bonus: Frontend Application
 
 Fully featured frontend application that consumes the API we're developing.
+
+
+
