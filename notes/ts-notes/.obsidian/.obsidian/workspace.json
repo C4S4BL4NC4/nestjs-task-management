@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "cc643b7a108fda06",
+    "id": "efe51df96a05614e",
     "type": "split",
     "children": [
       {
-        "id": "567de7c83887c11f",
+        "id": "a8a2549b1256873c",
         "type": "tabs",
         "children": [
           {
-            "id": "fefd0534881e356e",
+            "id": "d1968224db8f35bc",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "86be5db365ed96b5",
+    "id": "b67abc7de045f3ab",
     "type": "split",
     "children": [
       {
-        "id": "57fee9103221615f",
+        "id": "91cca8bb2858805b",
         "type": "tabs",
         "children": [
           {
-            "id": "3ed7ebd089a8790f",
+            "id": "e1cde1def851f2d2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "333e77322edf9338",
+            "id": "9f3f553956010b37",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "692f7fce9befade6",
+            "id": "d647f98cad8b47a3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +77,20 @@
     "width": 300
   },
   "right": {
-    "id": "0b1eb7014ff94ef8",
+    "id": "fe68fa381fe23fb8",
     "type": "split",
     "children": [
       {
-        "id": "1d880e9850aaa9cc",
+        "id": "28ea8501e8cdfb46",
         "type": "tabs",
         "children": [
           {
-            "id": "37b2a9a610238a66",
+            "id": "c2db1e18b1d9c303",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task Management Application.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Task Management Application"
+              "title": "Backlinks for Untitled"
             }
           },
           {
-            "id": "f34ecc2e7aca5232",
+            "id": "6b2a7e01da1b741d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task Management Application.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Task Management Application"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
-            "id": "64304f0ef907b951",
+            "id": "49783038a3383d67",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +133,7 @@
             }
           },
           {
-            "id": "6d882d0e13d38f9e",
+            "id": "b6db4e1e27c57023",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,18 +147,18 @@
             }
           },
           {
-            "id": "801e9aded412dbf7",
+            "id": "4aeb2b0ca1caff29",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task Management Application.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Task Management Application"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -179,32 +179,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "fefd0534881e356e",
+  "active": "d1968224db8f35bc",
   "lastOpenFiles": [
-    "Chapter 13 - MongoDB and GraphQL/Chapter 13.md",
-    "Chapter 12 - Unit Testing/Chapter 12.md",
-    "Chapter 11 - Deployment/Chapter 11.md",
-    "Chapter 10 - Frontend App/Chapter 10.md",
-    "Chapter 9 - Configuration Management/Chapter 9.md",
-    "Chapter 8 - Logging/Chapter 8.md",
-    "Chapter 6 - Auth Pt. 2 Task Ownership and Restrictions/Chapter 6.md",
-    "Chapter 5 - Auth Pt. 1 Authentication/Chapter 5.md",
-    "Chapter 1 - Introduction/Task Management Application.md",
-    "Chapter 4 - Data Persistence Postgres TypeORM/Chapter 4.md",
-    "Chapter 3 - Validation and Error Handling/Chapter 3.md",
-    "Chapter 13 - MongoDB and GraphQL",
-    "Chapter 12 - Unit Testing",
-    "Chapter 11 - Deployment",
-    "Chapter 10 - Frontend App",
-    "Chapter 9 - Configuration Management",
-    "Chapter 8 - Logging",
-    "Chapter 6 - Auth Pt. 2 Task Ownership and Restrictions",
-    "Chapter 5 - Auth Pt. 1 Authentication",
-    "Chapter 4 - Data Persistence Postgres TypeORM",
-    "Chapter 3 - Validation and Error Handling",
-    "Chapter 2 - Task ManagementApplication/NestJS Modules.md",
-    "Chapter 2 - Task ManagementApplication/NestJS Controllers.md",
-    "Chapter 2 - Task ManagementApplication/Chapter 2.md",
-    "Welcome.md"
+    "Untitled.md"
   ]
 }
