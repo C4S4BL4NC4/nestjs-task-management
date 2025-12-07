@@ -11,14 +11,12 @@
             "id": "5dbee7622b0a2c65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Chapter 2 - Task ManagementApplication/Data Transferring Object (DTO).md",
-                "mode": "source",
-                "source": false
+                "file": "Chapter 3 - Validation and Error Handling/img/pipeExample.png"
               },
-              "icon": "lucide-file",
-              "title": "Data Transferring Object (DTO)"
+              "icon": "lucide-image",
+              "title": "pipeExample"
             }
           }
         ]
@@ -183,10 +181,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "5dbee7622b0a2c65",
+  "active": "3ed7ebd089a8790f",
   "lastOpenFiles": [
-    "Chapter 2 - Task ManagementApplication/imgs/DTOExamples.png",
+    "Chapter 3 - Validation and Error Handling/NestJS Pipes.md",
+    "Chapter 3 - Validation and Error Handling/img/pipeExample.png",
     "Chapter 2 - Task ManagementApplication/Data Transferring Object (DTO).md",
+    "Chapter 3 - Validation and Error Handling/img",
+    "Chapter 2 - Task ManagementApplication/imgs/DTOExamples.png",
     "Chapter 2 - Task ManagementApplication/NestJS Providers.md",
     "Chapter 2 - Task ManagementApplication/NestJS Modules.md",
     "Chapter 2 - Task ManagementApplication/NestJS Controllers.md",
@@ -213,7 +214,6 @@
     "Chapter 8 - Logging",
     "Chapter 6 - Auth Pt. 2 Task Ownership and Restrictions",
     "Chapter 5 - Auth Pt. 1 Authentication",
-    "Chapter 4 - Data Persistence Postgres TypeORM",
     "Chapter 2 - Task ManagementApplication/Chapter 2.md",
     "Welcome.md"
   ]
