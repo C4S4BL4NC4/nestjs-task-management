@@ -9,9 +9,10 @@ import {
   Query,
 } from '@nestjs/common';
 import { TasksService } from './tasks.service';
-import type { Task, TaskStatus } from './task.model';
+import type { Task } from './task.model';
 import { CreateTaskDto } from './dto/create-task.dto';
 import { GetTasksFilterDto } from './dto/get-task-filter.dto';
+import { updateTaskStatusDto } from './dto/update-task-status.dto';
 
 @Controller('tasks')
 export class TasksController {
@@ -39,8 +40,10 @@ export class TasksController {
   @Patch('/:id/:status')
   updateTask(
     @Param('id') id: string,
-    @Param('status') status: TaskStatus,
+    @Param() updateTaskStatusDto: updateTaskStatusDto,
   ): Task | undefined {
+    const { status } = updateTaskStatusDto;
+    console.log(status);
     return this.tasksService.updateTaskStatus(id, status);
   }
 
