@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3 - Validation and Error Handling/Chapter 3.md",
+                "file": "Chapter 3 - Validation and Error Handling/NestJS Pipes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 3"
+              "title": "NestJS Pipes"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "5dbee7622b0a2c65",
   "lastOpenFiles": [
-    "Chapter 3 - Validation and Error Handling/NestJS Pipes.md",
     "Chapter 3 - Validation and Error Handling/Chapter 3.md",
+    "Chapter 3 - Validation and Error Handling/NestJS Pipes.md",
     "Chapter 3 - Validation and Error Handling/img/pipeExample.png",
     "Chapter 2 - Task ManagementApplication/Data Transferring Object (DTO).md",
     "Chapter 3 - Validation and Error Handling/img",
